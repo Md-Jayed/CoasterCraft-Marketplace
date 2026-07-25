@@ -1,0 +1,6 @@
+{
+  "name": "CoasterCraft Marketplace",
+  "description": "Premium marketplace for Roblox Theme Park Tycoon 2 roller coasters, parks, rides, and custom builds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
